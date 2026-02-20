@@ -11,8 +11,8 @@
             .hash = "N-V-__8AAFdWDwA0ktbNUi9pFBHCRN4weXIgIfCrVjfGxqgA",
         },
         .toolbox = .{
-            .url = "git+https://github.com/tiawl/toolbox?ref=2.0.0#8cfe99b13c380c0a0437e9edc05ab4b961b242d6",
-            .hash = "toolbox-2.0.0-kRAu4EF8AAC9LKCNAHFDbj1RzTI4yczjgz7PL_9YjYqb",
+            .url = "git+https://github.com/apm5127/toolbox.git?ref=zig-nightly#6e3eb07416b19d819c2c4afe6733f390e4eab0c7",
+            .hash = "toolbox-2.0.0-kRAu4DKBAACv1DkAD4AcBYeQqfiVdBeN21iDmV2AjVn7",
         },
     },
     .minimum_zig_version = "0.15.2",
